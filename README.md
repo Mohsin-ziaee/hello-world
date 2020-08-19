@@ -1,2 +1,2 @@
 # hello-world
-check github
+git pull and push checking
